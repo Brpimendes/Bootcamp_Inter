@@ -1,0 +1,19 @@
+/* body{} */
+
+.contador{
+    display: inline-block;
+    width: 500px;
+}
+
+.valor{
+    font-size: 20px;
+    padding: 5px 15px;
+}
+
+.menos, .mais{
+    margin: 10px;
+    padding: 6px 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+}
